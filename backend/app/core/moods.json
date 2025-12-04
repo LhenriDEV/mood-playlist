@@ -1,0 +1,14 @@
+{
+  "chill": {"energy": {"max": 0.35}, "valence": {"min": 0.1, "max": 0.6}, "tempo": {"max": 100}, "acousticness": {"min": 0.3}},
+  "festa": {"energy": {"min": 0.7}, "valence": {"min": 0.5}, "tempo": {"min": 110}},
+  "focado": {"energy": {"min": 0.4, "max": 0.7}, "valence": {"min": 0.2}},
+  "relax": {"energy": {"max": 0.3}, "acousticness": {"min": 0.5}},
+  "sad": {"valence": {"max": 0.3}, "energy": {"max": 0.4}},
+  "alegre": {"valence": {"min": 0.6}, "energy": {"min": 0.5}},
+  "romantico": {"acousticness": {"min": 0.4}, "valence": {"min": 0.5}},
+  "workout": {"energy": {"min": 0.7}, "tempo": {"min": 120}},
+  "rainy day": {"acousticness": {"min": 0.4}, "energy": {"max": 0.45}},
+  "nostalgic": {"valence": {"min": 0.3, "max": 0.6}, "acousticness": {"min": 0.3}},
+  "indie": {"energy": {"min": 0.3, "max": 0.6}, "acousticness": {"min": 0.2}},
+  "sleep": {"energy": {"max": 0.2}, "acousticness": {"min": 0.6}, "tempo": {"max": 80}}
+}
